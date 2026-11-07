@@ -1,0 +1,6 @@
+{
+  "name": "Apex Moto Tires - E-commerce Especializado em Pneus de Alta Performance",
+  "description": "E-commerce premium e especializado em pneus para motocicletas esportivas, street, touring, trail e off-road com localizador inteligente por marca, modelo e ano.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
